@@ -1,10 +1,10 @@
 ## Hi there 👋
  class WhoAmI:
-   user = 'Vijit Verma'
-   current_edu = "Persuing BTech. in AIML dept"
-   currently_learning = "Mongodb"
+   user = 'Mayank Srivastava'
+   current_edu = "Persuing BTech. in CSE dept"
+   currently_learning = "Nodejs"
    status: "Free for some days ahead"
-   fun_fact = "I hate Onion"
+   fun_fact = "I'm pretty easygoing person"
    hobbies = [
          'Listening Music',
          'Chilling',
