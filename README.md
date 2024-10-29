@@ -1,5 +1,5 @@
-## Hi there 👋
- ''' python <class WhoAmI:
+## Who I am 👋
+ ```class WhoAmI:
    user = 'Mayank Srivastava'
    current_edu = "Persuing BTech. in CSE dept"
    currently_learning = "Nodejs"
@@ -24,8 +24,8 @@
   def Achievements():
    	Technical_head():
            Salaah_The_Mentor_Community
-           Environ_Club>
-'''          
+           Environ_Club
+```         
 <div align="center">
 
 	
