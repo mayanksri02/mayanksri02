@@ -20,7 +20,7 @@
    	Travel_The_World()
 
   def Achievements():
-	President:
+	President():
            Technovation_The_Technical_Club_Of_CSE
    	Technical_head():
            Salaah_The_Mentor_Community
