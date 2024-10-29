@@ -17,7 +17,7 @@
    
    def Ambitions():
    	BecomeSoftwareEngineer()
-   	FinishMyProjects()
+   	Travel_The_World()
 
   def Achievements():
 	President:
